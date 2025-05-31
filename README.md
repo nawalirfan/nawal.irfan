@@ -21,4 +21,6 @@ I'm a full-stack Software Engineer specializing in building scalable, efficient,
 
 * [LinkedIn](https://www.linkedin.com/in/nawal-irfan)
 
+[![Nawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawalirfan)](https://github.com/nawalirfan/github-readme-stats)
+
 Happy coding! 🚀
